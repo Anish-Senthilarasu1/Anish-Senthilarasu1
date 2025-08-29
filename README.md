@@ -1,5 +1,13 @@
-Hello, my name is Anish Senthil, I am a current high-school student who is primarily focused on developing Python based applications.
-<!---
-Anish-Senthilarasu1/Anish-Senthilarasu1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Anish!
+
+I'm a **16-year-old** passionate about **startups, AI, and Python development**. I build
+
+---
+
+##  About Me
+
+- Built **SeekiR** – the **first AI search engine for student researchers**
+- Prev intern at YC
+-  **Python**, **Machine Learning**, and **Entrepreneurship**.  
+- Experienced in developing **FastAPI** backends, **Streamlit** apps, and working with **HuggingFace** models.  
+
