@@ -1,6 +1,6 @@
-# Hi there, I'm Anish!
+# hey i am anish
 
-I'm a **16-year-old** passionate about **startups, AI, and Python development**. I build and ship fasttt
+'m a **17-year-old** passionate about **startups, AI, and Python **. 
 
 ---
 
