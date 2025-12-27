@@ -1,7 +1,6 @@
 # hey i am anish
 
-'m a **17-year-old** passionate about **startups, AI, and Python **. 
-
+i am 17 and i like building in ai, data, and infra
 ---
 
 ##  About Me
